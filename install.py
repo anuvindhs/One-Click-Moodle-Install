@@ -23,6 +23,3 @@ def download_repo(repo_url, repo_name):
 
 
 check_git()
-
-download_repo("https://github.com/moodle/moodle.git","moodle")
-    
